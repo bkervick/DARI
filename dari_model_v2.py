@@ -45,8 +45,8 @@ warnings.filterwarnings('ignore')
 CSV_PATH = r'C:\Users\ra2bk\projects\Hoop-Explorer\rim_protection_metrics_with_top150.csv'
 
 # --- KenPom credentials ---
-KP_EMAIL    = 'briankervick@gmail.com'
-KP_PASSWORD = 'huskies1'
+KP_EMAIL    = 'username'
+KP_PASSWORD = 'password'
 
 # --- D1 Baseline Constants ---
 # L_full and L_top150 are overridden at runtime with sample-derived medians
